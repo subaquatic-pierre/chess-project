@@ -1,0 +1,7 @@
+
+[submodule "chess-api"]
+	path = chess-api
+	url = git@github.com:subaquatic-pierre/chess-api.git
+[submodule "client-diveschedule"]
+	path = chess-frontend
+	url = git@github.com:subaquatic-pierre/chess-frontend.git
